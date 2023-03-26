@@ -1,5 +1,19 @@
 {
-  "script" : {
-    "start" : "node server.js"
-  }
+  "script": {
+    "start": "node server.js"
+  },
+  "name": "tes_js_cyclic",
+  "version": "1.0.0",
+  "description": "Testing Cyclic",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testing-jns/tes_js_cyclic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/testing-jns/tes_js_cyclic/issues"
+  },
+  "homepage": "https://github.com/testing-jns/tes_js_cyclic#readme"
 }
